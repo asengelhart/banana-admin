@@ -1,3 +1,17 @@
 @import "../../colors.module.css";
 @import "../../fonts.module.css";
 
+.container {
+  padding: 2rem;
+  background-color: var(--WHITE);
+}
+
+.title {
+  font-size: 34px;
+  font-family: Open Sans;
+  font-weight: bold;
+  color: var(--NAVY_BLUE);
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
